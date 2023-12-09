@@ -15,7 +15,7 @@
 
 <h4 align="left">🎓 Education: (BS in Business Economics & MBA)</h4>
 <a href="https://uci.edu/" target="_blank" rel="noreferrer"><img 
-src="https://en.m.wikipedia.org/wiki/File:University_of_California,_Irvine_logo.svg" alt="UCI" width="150" height="90"/>
+src="https://upload.wikimedia.org/wikipedia/commons/b/b6/UC_Irvine_Anteaters_logo.svg" alt="UCI" width="150" height="90"/>
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
 
 
@@ -26,6 +26,6 @@ src="https://en.m.wikipedia.org/wiki/File:University_of_California,_Irvine_logo.
 </p>
 
 <h3 align="left">About Me:</h3>
-<h4 align="left">I have a strong foundation in data analytics and business. I am an aspriring product manager and come with 4+ years of experience working on SaaS platforms defining KPIs, providing and iterating features for automotive cloud based solutions. I very customer centric and aim to provide value from a user's perspective.</h4>
+<h4 align="left">I have a strong foundation in data analytics and business. I am an aspriring product manager and come with 4+ years of experience working on SaaS platforms defining KPIs, providing and iterating features for automotive cloud based solutions. I am very customer centric and aim to provide value from a user's perspective. I am passionate in ierative processes, product roadmap, and working with engineers.</h4>
   
 ![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
