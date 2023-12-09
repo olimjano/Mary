@@ -8,13 +8,14 @@
 
 - 📈 MBA Candidate at [@USC](https://www.usc.edu/)
 - 📫 How to reach me: **olimjano@usc.edu**
-- 📄 Blog Link: [Blog](https://molimjanova.wixsite.com/mary))
-- 
+- 📄 Blog Link: [Blog](https://molimjanova.wixsite.com/mary)
+- Org Link: [Org] (https://foundationofleaders.com/workshops/)
 <!-- ⚡ Fun fact: **Pro ** -->
 
 
 <h4 align="left">🎓 Education: (BS in Business Economics & MBA)</h4>
-<a href="https://www.uci.edu/" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/File:UCI_Anteaters_logo.png" alt="SHC" width="150" height="90"/>
+<a href="https://uci.edu/" target="_blank" rel="noreferrer"><img 
+src="https://en.m.wikipedia.org/wiki/File:UC_Irvine_Anteaters_logo.svg" alt="UCI" width="100" height="90"/>
 <a href="https://usc.edu/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg" alt="USC" width="90" height="90"/>
 
 
