@@ -9,7 +9,7 @@
 - 📈 MBA Candidate at [@USC](https://www.usc.edu/)
 - 📫 How to reach me: **olimjano@usc.edu**
 - 📄 Blog Link: [Blog](https://molimjanova.wixsite.com/mary)
-- Org Link: [Org] (https://foundationofleaders.com/workshops/)
+- Org Link: [Org](https://foundationofleaders.com)
 <!-- ⚡ Fun fact: **Pro ** -->
 
 
